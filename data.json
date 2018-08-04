@@ -1,0 +1,56 @@
+{
+  "carrer":{
+    "info":"To obtain a position that challenges me and provides me the opportunity to reach my full potential professionally and personally utilizing my abilities and years of experience in your organization that is progressive intellectually and technically and one in which practices collaborative leadership, integrity and honesty"
+  },
+   "education":[
+    {
+      "Degree":"MCA(Computer scince)",
+      "Institute":"SIETK",
+      "data":["2016-2019","84"]
+    },
+    {
+      "Degree":"BSC(Computer scince)",
+      "Institute":"SRI VIDYANIKETHAN DEGREE COLLAGE",
+      "data":["2013-2016","81"]
+    },
+    {
+      "Degree":"INTERMEDIATE(M.P.C)",
+      "Institute":"SREE GAYATHRI JUNOUR COLLAGE",
+      "data":["2011-2013","78"]
+    },
+    {
+      "Degree":"10",
+      "Institute":"RCR HIGH SCHOOL",
+      "data":["2011","78"]
+    }
+  ],
+  "skills":[
+    {
+      "title":"web technologies",
+      "set":["html","css","ajax","js"]
+    },
+    {
+      "title":"programming languages",
+      "set":["java","pascal","c","cobal"]
+    },
+    {
+      "title":"data base",
+      "set":["sql","my sql","oracle","operational dataase"]
+    },
+    {
+      "title":"operating system",
+      "set":["windows","mac","linux","unix"]
+    }
+  ],
+"achivements":[
+  {
+    "achivedData":"got first prize short film"
+  },
+  {
+    "achivedData":"got first prize Paper presentation"
+  },
+  {
+    "achivedData":"got Appriciation certification "
+  }
+]
+}

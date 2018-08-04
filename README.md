@@ -1,2 +1,1 @@
-# stage6
-problem6
+# resume
