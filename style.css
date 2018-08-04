@@ -16,26 +16,14 @@ p{
   text-align:right;
   font-size:25px;
 }
-.child1{
-  border: 2px solid #ddd;
-  padding:2%;
-  margin:2%;
-  box-shadow:3px 3px 3px #000;
-}
-.child2{
-  border: 2px solid #ddd;
-  padding:2%;
-  margin:2%;
-  box-shadow:3px 3px 3px #000;
-}
+.child1,
+.child2,
 .child3{
   border: 2px solid #ddd;
   padding:2%;
   margin:2%;
   box-shadow:3px 3px 3px #000;
 }
-
-
 @media only screen and (min-width:320px) and (max-width:480px)
 {
   .parent{
@@ -62,19 +50,19 @@ p{
 {
 
   .parent{
-   border-radius: 10px;
-   display: flex;
-   flex-direction: row;
-   margin: 0 auto;
- }
-  .child1{
+      border-radius: 20px;
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      margin: 0 auto;
+    }
+   .child1,
+   .child2{
     width: 40%;
   }
-  .child2{
-    width: 40%;
-  }
-  .child3{
-    width: 96%;
+
+ .child3{
+    width: 98%;
 
   }
 
